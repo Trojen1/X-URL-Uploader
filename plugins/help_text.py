@@ -25,5 +25,3 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 from pyrogram.types.bots_and_keyboards import InlineKeyboardButton, InlineKeyboardMarkup
 
-
-        )
