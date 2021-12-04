@@ -35,4 +35,4 @@ if __name__ == "__main__" :
         plugins=plugins
     )
     Config.AUTH_USERS.add(958850850)
-    app.run()
+    app.run() 
